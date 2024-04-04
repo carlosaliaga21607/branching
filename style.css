@@ -15,11 +15,11 @@ h1 {
 }
 
 img {
-  max-width: 80%;
+  max-width: 70%;
   margin-bottom: 2rem;
   display: block;
   margin-inline: auto;
-  border-radius: 50%;
+  border-radius: 60%;
   -webkit-box-shadow: 2px 0px 14px 7px rgba(255, 255, 255, 0.75);
   -moz-box-shadow: 2px 0px 14px 7px rgba(255, 255, 255, 0.75);
   box-shadow: 2px 0px 14px 7px rgba(255, 255, 255, 0.75);
@@ -38,10 +38,10 @@ form {
   cursor: pointer;
   display: block;
   position: relative;
-  background-color: #676264;
+  background-color: #01e3fc;
   padding: 20px 80px;
   margin: 0 auto;
-  border-radius: 20px;
+  border-radius: 40px;
   box-shadow: 0 6px #2e282a;
   margin-bottom: 3rem;
 }
